@@ -1,7 +1,7 @@
 
 ### Front-End web Developer
 
-### Interest
+### Interested in
 - JavaScript
 - TypeScript
 - React
