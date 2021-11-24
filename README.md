@@ -1,10 +1,5 @@
-<div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-
-</div>
-
-### Front-end web Developer
+### Front-End web Developer
 
 ### Interest
 - JavaScript
