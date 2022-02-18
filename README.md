@@ -7,8 +7,7 @@
 - React
 - Next
 - Python
-- C
-- .NET
+
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jay0811.tistory.com/)](https://jay0811.tistory.com/) 
