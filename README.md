@@ -4,9 +4,8 @@
 ### Interested in
 - JavaScript
 - TypeScript
-- React
-- Next
-- Python
+- React.js
+- Next.js
 
 <div align=center>
 
